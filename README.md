@@ -6,7 +6,7 @@ A brand new banking company that is completely online. It has no physical local 
   The objective is to make a banking app that provides the consumer with easy and secure online banking. As well as making the app with stellar customer service, less wait time than traditional banks, and accessible to a wide range of users leading to great customer satisfaction.
 
 ## Who is the audience?
- The organization is trying to reach customers who would benefit from quick on the go banking without the long wait times and inconvenience of driving to the nearest branch. Those who are budgeters, those curious about how much money they have,and those who are on the go or have limited time. 
+ The organization is trying to reach customers who would benefit from quick on the go banking without the long wait times and inconvenience of driving to the nearest branch. Those who are budgeters, those curious about how much money they have,and those who are on the go or have limited time.
 
 ## What is the main important thing to get across?
  Quick, Secure, Reliable online banking.
@@ -15,7 +15,7 @@ A brand new banking company that is completely online. It has no physical local 
 _**Strengths**_
 
 * Improving Banking
-* Improving Accesibility
+* Improving Accessibility
 * Useful for practically everyone
 
 _**Weakness**_
